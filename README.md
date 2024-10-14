@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🎞 Portfolio - <a ref="">Here</a>
+## 🎞 Portfolio - <a href="">Here</a>
 
 <!--  -->
 
