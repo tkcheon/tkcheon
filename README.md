@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <body>
 
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=JAVA&logoColor=61DAFB" />
  
 </body>
