@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   📖 full-stack frameworks (Java, Spring) Bootcamp completion (24.04~24.10)<br>
   📧 tlswlsrhd@naver.com<br>
 
-<br><br>
+<br>
 
 ## 🎞 Portfolio - <a ref="">Here</a>
 
