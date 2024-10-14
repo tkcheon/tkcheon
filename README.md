@@ -16,9 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-<body>
-
-
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=JAVA&logoColor=61DAFB" />
- 
-</body>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkcheon)](https://github.com/anuraghazra/github-readme-stats)
