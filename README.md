@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 -->
 
 <body>
-  <div align="center">
-  <img src="https://github.com/tkcheon/tkcheon/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-  </div>
+
+
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ 
 </body>
