@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 
 -->
 
+## 👨🏻‍💻 Personal Info
 <li>
-  👨🏻‍💻 Full Stack Web Developer
+  👨🏻‍💻 Cheon Tae Kwang 
+  📖 full-stack frameworks (Java, Spring) Bootcamp completion (24.04~24.10)
+  📧 tlswlsrhd@naver.com
 </li>
 
+<br><br><br>
+
+<!--  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkcheon)](https://github.com/anuraghazra/github-readme-stats)
 
+<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkcheon)](https://github.com/anuraghazra/github-readme-stats)
