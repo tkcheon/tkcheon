@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🎞 Portfolio - <a href="">Here</a>
+## 🎞 자료 정리 - <a href="https://eggplant-kangaroo-204.notion.site/129d555b5a2480a4a300f54ed8f71452">Here</a>
 
 <!--  -->
 
